@@ -1,6 +1,7 @@
 /*
  * ROR World "MACH 10" Sender 🚀
  * Page Views Only | DNS Cached | Socket Destroy
+ Furula?
  */
 
 const https = require("https");
